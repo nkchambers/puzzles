@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nick8\\Desktop\\C#\\puzzles\\puzzles.csproj": {}
+    "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\puzzles\\puzzles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nick8\\Desktop\\C#\\puzzles\\puzzles.csproj": {
+    "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\puzzles\\puzzles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nick8\\Desktop\\C#\\puzzles\\puzzles.csproj",
+        "projectUniqueName": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\puzzles\\puzzles.csproj",
         "projectName": "puzzles",
-        "projectPath": "C:\\Users\\nick8\\Desktop\\C#\\puzzles\\puzzles.csproj",
+        "projectPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\puzzles\\puzzles.csproj",
         "packagesPath": "C:\\Users\\nick8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nick8\\Desktop\\C#\\puzzles\\obj\\",
+        "outputPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\puzzles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nick8\\AppData\\Roaming\\NuGet\\NuGet.Config"
